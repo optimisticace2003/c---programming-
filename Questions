@@ -1,0 +1,72 @@
+1.	Compile and Execute the C program to calculate Arithmetic Operators Functions such as Pow(x,n), Add(x,n), Sub(x,n), Mul(x,n), Div(x,n), where x and n are the two operands.  Get the input and choice from the user.
+
+Sample Input:
+X = 2
+N = 4
+Choice : 2
+
+Sample Output:
+Add(X,N) = 6
+
+Test cases:
+1.	X = 0 , N = 4
+2.	X = 5 , N = 0
+3.	X = -3 , N = 3
+4.	X = 0 ,  N = 0
+5.	X = 123, N = 123
+2.	Compile and Execute the C program to change all the digits of a number to bring the digit at the last position to the first position and vice-versa using loop. Get the input from user.
+Sample Input:
+Number: 14567
+Sample Output:
+Reverse Number: 76541
+Test cases:
+1.	-45721
+2.	000
+3.	AD1947
+4.	!@#$%
+5.	145*999=144855
+3.	Compile and Execute the C program to find the Factorial of a positive integer (number) is the sum of multiplication of all the integers smaller than that positive integer. N! is denoted as factorial of N. For example, factorial of 5 is 5 * 4 * 3 * 2 * 1 which equals to 120.
+
+Sample Input:
+N = 5
+
+Sample Output:
+120 
+
+Test cases:
+1.	N = 0
+2.	N = -5
+3.	N = 1
+4.	N = Q
+5.	N = 3A
+
+4.	Suppose the number to be check is 6: The user has provided one number that is ‘6’, now we have to think and calculate by which other numbers we can divide ‘6’ and get the remainder as ‘0’. If the remainder is zero, then we can say that ‘6’ is divisible by that number and we can take this number into consideration to get the sum by using some more other numbers. Compile and execute the above C program.
+Sample Input:
+Given Number: 6
+
+Sample Output:
+Its a Perfect Number 
+
+Test cases:
+1.	17
+2.	26!
+3.	143
+4.	84.1
+5.	-963
+
+5.	Compile and Execute the C program were the user to enter an integer to compute the square, cube of the given decimal number using standard method.
+
+Sample Input:
+Given Number: 0.6
+
+
+Sample Output:
+Square Number: 0.36
+Cube Number:0.216 
+
+Test cases:
+1.	12
+2.	0 
+3.	-0.5
+4.	14.25
+5.	-296

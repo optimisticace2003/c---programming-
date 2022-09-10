@@ -1,0 +1,15 @@
+#include<stdio.h>
+void main()
+{
+ float a,s,c;
+
+ printf("\n Enter A Number: ");
+ scanf("%f",&a);
+
+ s=a*a;  
+ c=s*a; 
+
+ printf("\n Square of %f is = %f",a,s);
+
+ printf("\n\n Cube of %f is = %f",a,c);
+}
